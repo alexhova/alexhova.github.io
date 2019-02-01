@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alexhova.github.io/posts/first/</loc>
+    <lastmod>2019-02-01T16:38:58-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alexhova.github.io/</loc>
+    <lastmod>2019-02-01T16:38:58-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alexhova.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexhova.github.io/posts/</loc>
+    <lastmod>2019-02-01T16:38:58-06:00</lastmod>
     <priority>0</priority>
   </url>
   

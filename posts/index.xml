@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex&#39;s Domain</title>
-    <link>https://alexhova.github.io/</link>
-    <description>Recent content on Alex&#39;s Domain</description>
+    <title>Posts on Alex&#39;s Domain</title>
+    <link>https://alexhova.github.io/posts/</link>
+    <description>Recent content in Posts on Alex&#39;s Domain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Feb 2019 16:38:58 -0600</lastBuildDate>
     
-	<atom:link href="https://alexhova.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexhova.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
