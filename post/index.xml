@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>words on Alex&#39;s Domain</title>
+    <link>https://alexhova.github.io/post/</link>
+    <description>Recent content in words on Alex&#39;s Domain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Feb 2019 16:38:58 -0600</lastBuildDate>
+    
+	<atom:link href="https://alexhova.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Second Post!</title>
+      <link>https://alexhova.github.io/post/another/</link>
+      <pubDate>Sat, 02 Feb 2019 16:38:58 -0600</pubDate>
+      
+      <guid>https://alexhova.github.io/post/another/</guid>
+      <description>Another post right here.</description>
+    </item>
+    
+    <item>
+      <title>Hello Worlds!</title>
+      <link>https://alexhova.github.io/post/first/</link>
+      <pubDate>Fri, 01 Feb 2019 16:38:58 -0600</pubDate>
+      
+      <guid>https://alexhova.github.io/post/first/</guid>
+      <description>This is my first post :]</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,17 +6,35 @@
     <description>Recent content in Alex was here. on Alex&#39;s Domain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Feb 2019 16:38:58 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 19:08:29 -0600</lastBuildDate>
     
 	<atom:link href="https://alexhova.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Rocko on the river</title>
+      <link>https://alexhova.github.io/visuals/rocko-river/</link>
+      <pubDate>Sat, 02 Feb 2019 19:08:29 -0600</pubDate>
+      
+      <guid>https://alexhova.github.io/visuals/rocko-river/</guid>
+      <description>  Rocko on the Mississippi River [May 14, 2018]   </description>
+    </item>
+    
+    <item>
+      <title>A Second Post!</title>
+      <link>https://alexhova.github.io/post/another/</link>
+      <pubDate>Sat, 02 Feb 2019 16:38:58 -0600</pubDate>
+      
+      <guid>https://alexhova.github.io/post/another/</guid>
+      <description>Another post right here.</description>
+    </item>
+    
+    <item>
       <title>Hello Worlds!</title>
-      <link>https://alexhova.github.io/posts/first/</link>
+      <link>https://alexhova.github.io/post/first/</link>
       <pubDate>Fri, 01 Feb 2019 16:38:58 -0600</pubDate>
       
-      <guid>https://alexhova.github.io/posts/first/</guid>
+      <guid>https://alexhova.github.io/post/first/</guid>
       <description>This is my first post :]</description>
     </item>
     

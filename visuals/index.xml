@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visuals on Alex&#39;s Domain</title>
+    <link>https://alexhova.github.io/visuals/</link>
+    <description>Recent content in visuals on Alex&#39;s Domain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Feb 2019 19:08:29 -0600</lastBuildDate>
+    
+	<atom:link href="https://alexhova.github.io/visuals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rocko on the river</title>
+      <link>https://alexhova.github.io/visuals/rocko-river/</link>
+      <pubDate>Sat, 02 Feb 2019 19:08:29 -0600</pubDate>
+      
+      <guid>https://alexhova.github.io/visuals/rocko-river/</guid>
+      <description>  Rocko on the Mississippi River [May 14, 2018]   </description>
+    </item>
+    
+  </channel>
+</rss>
